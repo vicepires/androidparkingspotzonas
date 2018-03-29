@@ -1,6 +1,6 @@
 {
   "zonas":[
-    { "cod_zona":1, "num_ruas":10, "preco":5}, 
+    { "cod_zona":1, "num_ruas":10, "preco":50}, 
     { "cod_zona":2, "num_ruas":9, "preco":20},
     { "cod_zona":3, "num_ruas":11, "preco":15}
     ]
